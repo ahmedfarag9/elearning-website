@@ -265,3 +265,12 @@ header {
   border-color: var(--color-primary);
 }
 
+.course__info {
+  padding: 2rem;
+}
+
+.course__info p {
+  margin: 1.2rem 0 2rem;
+  font-size: 0.9rem;
+}
+
