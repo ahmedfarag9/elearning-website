@@ -168,3 +168,15 @@ header {
 .header__left p {
   margin: 1rem 0 2.4rem;
 }
+
+/* ================= CATEGORIES ================== */
+
+.categories {
+  background: var(--color-bg1);
+  height: 29rem;
+}
+.categories h1 {
+  line-height: 1;
+  margin-bottom: 3rem;
+}
+
