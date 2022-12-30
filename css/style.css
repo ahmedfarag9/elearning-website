@@ -253,3 +253,15 @@ header {
   gap: 2rem;
 }
 
+.course {
+  background: var(--color-bg1);
+  text-align: center;
+  border: 1px solid transparent;
+  transition: var(--transition);
+}
+
+.course:hover {
+  background: transparent;
+  border-color: var(--color-primary);
+}
+
