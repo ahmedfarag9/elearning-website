@@ -180,3 +180,16 @@ header {
   margin-bottom: 3rem;
 }
 
+.categories__container {
+  display: grid;
+  grid-template-columns: 40% 60%;
+}
+
+.categories__left p {
+  margin: 1rem 0 3rem;
+}
+
+.categories__left {
+  margin-right: 4rem;
+}
+
