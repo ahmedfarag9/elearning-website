@@ -193,3 +193,15 @@ header {
   margin-right: 4rem;
 }
 
+.categories__right {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.2rem;
+}
+
+.category {
+  background: var(--color-bg2);
+  padding: 2rem;
+  border-radius: 2rem;
+  transition: var(--transition);
+}
