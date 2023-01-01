@@ -173,7 +173,7 @@ header {
 
 .categories {
   background: var(--color-bg1);
-  height: 29rem;
+  height: 32rem;
 }
 .categories h1 {
   line-height: 1;
@@ -305,5 +305,14 @@ header {
 .faq__icon {
   align-self: flex-start;
   font-size: 1.2rem;
+}
+
+.faq p {
+  margin-top: 0.8rem;
+  display: none;
+}
+
+.faq.open p {
+  display: block;
 }
 
