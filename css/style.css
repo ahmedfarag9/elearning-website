@@ -550,6 +550,13 @@ header {
   }
 }
 
+/* ======================  MEDIA QUERIES FOR (MOBILES)  ===================== */
+
+@media screen and (max-width: 600px) {
+  .container {
+    width: var(--container-width-sm);
+  }
+
   /* =========  CATEGORIES  ======== */
   .footer__container {
     grid-template-columns: 1fr 1fr;
