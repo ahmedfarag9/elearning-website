@@ -607,8 +607,18 @@ header {
     padding: 1.2rem;
   }
 
+  /* =========  FOOTER  ======== */
+
   .footer__container {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
+    text-align: center;
+    gap: 2rem;
+  }
+  .footer__1 p {
+    margin: 1rem auto;
+  }
+
+  .footer__socials {
+    justify-content: center;
   }
 }
-
