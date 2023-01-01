@@ -498,3 +498,15 @@ header {
     color: var(--color-white);
   }
 
+  /* =========  HEADER  ======== */
+
+  header {
+    height: 52vh;
+    margin-bottom: 4rem;
+  }
+
+  .header__container {
+    gap: 0;
+    padding-bottom: 3rem;
+  }
+
