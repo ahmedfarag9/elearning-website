@@ -510,3 +510,17 @@ header {
     padding-bottom: 3rem;
   }
 
+  /* =========  CATEGORIES  ======== */
+
+  .categories {
+    height: auto;
+  }
+  .categories__container {
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+
+  .categories__left {
+    margin-right: 0;
+  }
+
