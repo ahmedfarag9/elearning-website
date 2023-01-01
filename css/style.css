@@ -557,6 +557,12 @@ header {
     width: var(--container-width-sm);
   }
 
+  /* =========  NAVBAR  ======== */
+
+  .nav__menu {
+    right: 3%;
+  }
+
   /* =========  CATEGORIES  ======== */
   .footer__container {
     grid-template-columns: 1fr 1fr;
