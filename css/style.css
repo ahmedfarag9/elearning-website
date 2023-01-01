@@ -544,6 +544,12 @@ header {
     padding: 1.5rem;
   }
 
+  /* =========  FOOTER  ======== */
+  .footer__container {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
   /* =========  CATEGORIES  ======== */
   .footer__container {
     grid-template-columns: 1fr 1fr;
