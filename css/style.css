@@ -473,3 +473,14 @@ header {
   .nav__menu li:nth-child(4) {
     animation-delay: 600ms;
   }
+
+  @keyframes animateNavItems {
+    0% {
+      transform: rotateZ(-90deg) rotateX(90deg) scale(0.1);
+    }
+    100% {
+      transform: rotateZ(0) rotateX(0) scale(1);
+      opacity: 1;
+    }
+  }
+
