@@ -383,3 +383,15 @@ header {
   margin-bottom: 1.2rem;
 }
 
+.footer__1 p {
+  margin: 0 0 2rem;
+}
+
+.footer ul li {
+  margin-bottom: 0.7rem;
+}
+
+.footer ul li a:hover {
+  text-decoration: underline;
+}
+
