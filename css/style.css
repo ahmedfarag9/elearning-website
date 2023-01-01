@@ -595,6 +595,18 @@ header {
     display: inline-block;
   }
 
+  /* =========  POPULAR COURSES  ======== */
+
+  .courses__container {
+    grid-template-columns: 1fr;
+  }
+
+  /* =========  TESTIMONIAL  ======== */
+
+  .testimonial__body {
+    padding: 1.2rem;
+  }
+
   .footer__container {
     grid-template-columns: 1fr 1fr;
   }
