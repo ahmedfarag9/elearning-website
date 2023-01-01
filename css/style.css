@@ -579,6 +579,22 @@ header {
   }
 
   /* =========  CATEGORIES  ======== */
+
+  .categories__right {
+    grid-template-columns: 1fr 1fr;
+    gap: 0.7rem;
+  }
+
+  .category {
+    padding: 1rem;
+    border-radius: 1rem;
+  }
+
+  .category__icon {
+    margin-top: 4px;
+    display: inline-block;
+  }
+
   .footer__container {
     grid-template-columns: 1fr 1fr;
   }
