@@ -534,3 +534,13 @@ header {
     grid-template-columns: 1fr 1fr;
   }
 
+  /* =========  FAQ  ======== */
+
+  .faqs__container {
+    grid-template-columns: 1fr;
+  }
+
+  .faq {
+    padding: 1.5rem;
+  }
+
