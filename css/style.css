@@ -524,3 +524,13 @@ header {
     margin-right: 0;
   }
 
+  /* =========  POPULAR COURSES  ======== */
+
+  .courses {
+    margin-top: 0;
+  }
+
+  .courses__container {
+    grid-template-columns: 1fr 1fr;
+  }
+
