@@ -91,3 +91,27 @@ textarea {
   cursor: pointer;
 }
 
+/* ======================  MEDIA QUERIES FOR (TABLETS)  ===================== */
+@media screen and (max-width: 1024px) {
+  .contact {
+    padding-bottom: 0;
+  }
+
+  .contact__container {
+    gap: 1.5rem;
+    margin-top: 3rem;
+    height: auto;
+    padding: 1.5rem;
+  }
+
+  .contact__aside {
+    width: auto;
+    padding: 1.5rem;
+    bottom: 0;
+  }
+
+  .contact__form {
+    align-self: center;
+    margin-right: 1.5rem;
+  }
+}
