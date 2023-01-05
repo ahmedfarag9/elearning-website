@@ -12,6 +12,7 @@ An **E-learning Website** Built with pure HTML, JAVASCRIPT & CSS.
 | [HTML](https://www.w3schools.com/html/)   | The HyperText Markup Language is a standard markup language for documents |
 | [CSS](https://www.w3schools.com/css/)     | Cascading Style Sheets is a style sheet language                          |
 | [FORMSPREE](https://formspree.io/)        | Form backend, API, and email service for HTML & JavaScript forms          |
+| [Netlify](https://app.netlify.com/)       | Hosting service                                                           |
 
 ---
 
