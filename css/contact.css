@@ -58,3 +58,36 @@
 .contact__socials a:hover {
   background: transparent;
 }
+
+/* =================== FORM ====================== */
+
+.contact__form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  margin-right: 4rem;
+}
+
+.form__name {
+  display: flex;
+  gap: 1.2rem;
+}
+
+.contact__form input[type="text"] {
+  width: 50%;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 1rem;
+  background: var(--color-bg);
+  color: var(--color-white);
+}
+
+.contact__form .btn {
+  width: max-content;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+
