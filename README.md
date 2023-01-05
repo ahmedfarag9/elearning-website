@@ -6,12 +6,12 @@ An **E-learning Website** Built with pure HTML, JAVASCRIPT & CSS.
 
 ### Used Tools and Technologies
 
-| Tool/Technology                             | About                                                                     |
-| ------------------------------------------- | ------------------------------------------------------------------------- |
-| [JAVASCRIPT](https://www.javascript.com/)   | Programming language                                                      |
-| [HTML](https://www.typescriptlang.org/)     | The HyperText Markup Language is a standard markup language for documents |
-| [CSS](https://reactjs.org/)                 | Cascading Style Sheets is a style sheet language                          |
-| [FORMSPREE](https://www.framer.com/motion/) | Form backend, API, and email service for HTML & JavaScript forms          |
+| Tool/Technology                           | About                                                                     |
+| ----------------------------------------- | ------------------------------------------------------------------------- |
+| [JAVASCRIPT](https://www.javascript.com/) | Programming language                                                      |
+| [HTML](https://www.w3schools.com/html/)   | The HyperText Markup Language is a standard markup language for documents |
+| [CSS](https://www.w3schools.com/css/)     | Cascading Style Sheets is a style sheet language                          |
+| [FORMSPREE](https://formspree.io/)        | Form backend, API, and email service for HTML & JavaScript forms          |
 
 ---
 
